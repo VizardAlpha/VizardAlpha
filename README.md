@@ -7,4 +7,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VizardAlpha&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VizardAlpha&icon=5&color=2)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=VizardAlpha&color=lightgrey)
